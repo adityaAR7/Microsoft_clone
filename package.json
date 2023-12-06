@@ -1,0 +1,25 @@
+{
+  "name": "microsoft_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://adityaAR7.github.io/Microsoft_clone",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "gh-pages": "^6.1.0",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "vite": "^5.0.5"
+  }
+}
