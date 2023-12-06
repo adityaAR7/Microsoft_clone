@@ -1,0 +1,1 @@
+div[data-hidden]{display:none}@media (min-width: 1024px){div[data-active]{display:flex;--tw-bg-opacity: 1;background-color:rgb(243 244 246 / var(--tw-bg-opacity))}}div[data-active]{opacity:1;transition-delay:0}div[data-bg-black]{--tw-bg-opacity: 1;background-color:rgb(0 0 0 / var(--tw-bg-opacity))}.slide{opacity:0;transition:1s opacity ease-in-out;transition-delay:.2s}
